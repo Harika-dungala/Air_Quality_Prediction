@@ -68,9 +68,5 @@ The dataset includes historical air quality data with pollutant concentrations a
  
 
 
----
 
-**🔖 #AirQuality #MachineLearning #AI #EnvironmentalMonitoring #AQI**  
-
-🚀 **Predicting air pollution to build a healthier future!**
 
